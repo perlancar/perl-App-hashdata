@@ -1,0 +1,5 @@
+App-hashdata-*
+.build
+*~
+nytprof*
+.DS_Store
